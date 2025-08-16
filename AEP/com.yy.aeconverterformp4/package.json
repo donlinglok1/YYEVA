@@ -11,7 +11,7 @@
   "author": "Guoyabin",
   "license": "ISC",
   "dependencies": {
-    "adm-zip": "^0.5.9",
+    "adm-zip": "^0.5.16",
     "buffer": "^6.0.3",
     "jdataview": "^2.5.0",
     "zlib": "^1.0.5"
